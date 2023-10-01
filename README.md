@@ -1,4 +1,8 @@
 ## Run
-`go install github.com/cosmtrek/air@latest`
+```bash
+go install github.com/cosmtrek/air@latest
+```
 
-`air -c .air.toml`
+```bash
+air -c .air.toml
+```
